@@ -1,0 +1,4 @@
+0 Nothing/neutral
+1 Rock
+2 Scissors
+3 White paper
